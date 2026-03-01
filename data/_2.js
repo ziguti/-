@@ -1,1 +1,0 @@
-var json__2 = {"type":"FeatureCollection","name":"_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","photo_path ":"D:\\心のDATA\\QGIS\\IMG_20250426_144518.jpg","title ":"東から西へ山階小学校校門を撮影"},"geometry":{"type":"Point","coordinates":[135.813714587119449,34.983387784228142]}}]}
